@@ -1,0 +1,2 @@
+listadupla.ListaDupla
+listadupla.No
